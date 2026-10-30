@@ -15,7 +15,7 @@ A clean, responsive single-page Calculator built by **Kartik R** using semantic 
 
 ## 🛠️ Built With
 
-**HTML**  **CSS**  **JavaScript** 
+**HTML**    **CSS**     **JavaScript** 
 
 ---
 ---
@@ -44,4 +44,4 @@ To view and run this project locally:
 * **Kartik R**
   * GitHub: [@KartikR888](https://github.com/KartikR888)
   * LinkedIn: [Kartik R](https://www.linkedin.com/in/kartik-r-699823423)
-  * 
+
